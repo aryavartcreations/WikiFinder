@@ -1,2 +1,3 @@
 # WikiFinder
-Wikipedia searcher app for Android
+
+An open source wikipedia searcher android app made in Kotlin
